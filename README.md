@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Christian
+* I’m currently working on [SkinDB.net](https://github.com/SkinDB/SkinDB.net#readme) and with an massively growing database
+* My favorite languages are Java and JavaScript
+* Other skills: Linux, Git, SQL<!-- Big fan of PostgreSQL since moving away from MySQL -->, HTML
+* Uses Manjaro for Coding and Gaming
 
-<!--
-**SpraxDev/SpraxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*🔗 [My Website](https://Sprax.me/)*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://Sprax.me/Twitter">
+    <img height="35" src="https://spraxdev.github.io/SpraxDev/Twitter.svg"><!--
+  --></a>
+  <a href="https://Sprax.me/Discord">
+    <img height="35" src="https://spraxdev.github.io/SpraxDev/Discord.svg"><!--
+  --></a>
+</p>
