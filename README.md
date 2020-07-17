@@ -13,4 +13,7 @@
   <a href="https://Sprax.me/Discord">
     <img height="35" src="https://spraxdev.github.io/SpraxDev/Discord.svg"><!--
   --></a>
+  <a href="https://Sprax.me/Patreon">
+    <img height="35" src="https://spraxdev.github.io/SpraxDev/Patreon.svg"><!--
+  --></a>
 </p>
