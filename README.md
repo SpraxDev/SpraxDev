@@ -2,7 +2,7 @@
 * I’m currently working on [SkinDB.net](https://github.com/SkinDB/SkinDB.net#readme) and with an massively growing database
 * My favorite languages are Java and JavaScript
 * Other skills: Linux, Git, SQL<!-- Big fan of PostgreSQL since moving away from MySQL -->, HTML
-* Uses Manjaro for Coding and Gaming
+* Using Linux for everything but multiplayer games (And most AAA titles, because they don't seem to bother)
 
 *🔗 [My Website](https://Sprax.me/)*
 
