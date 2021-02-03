@@ -21,5 +21,3 @@ jobs:
 
           plugin_languages: yes
           plugin_lines: yes
-          plugin_habits: yes
-          plugin_habits_from: 100
